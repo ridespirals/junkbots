@@ -1,0 +1,16 @@
+{
+	"name": "junkbots",
+	"authors": [
+		"John Varga"
+	],
+	"dependencies": {
+		"dsfml": "~>2.1.1",
+		"dsfml:graphics": "~>2.1",
+		"dsfml:system": "~>2.1"
+	},
+	"sourcePaths": ["source"],
+	"lflags" : ["+C:\\DSFML\\lib\\"],
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2017, John Varga",
+	"license": "proprietary"
+}
